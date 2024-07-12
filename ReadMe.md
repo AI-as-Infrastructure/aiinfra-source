@@ -1,1 +1,1 @@
-Source documents for AI as Infrastructure (aiinfra.anu.org.au) LLM experiments.
+This repository contains source documents for the [AI as Infrastructure (AIINFRA)](aiinfra.anu.org.au) project, comprising Hansard documents from the year 1901. ReadMe files are provided for each of the three corpuses: Australia, Aotearoa New Zealand, and the United Kingdom.
